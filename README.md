@@ -62,3 +62,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir uma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Ferrer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-menezes-9b6786361/)
 [![GitHub](https://img.shields.io/badge/GitHub-QualyFerrer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QualyFerrer)
+
+## Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QualyFerrer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualyFerrer&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
