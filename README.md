@@ -7,9 +7,9 @@
 
 📍 Piracicaba, SP &nbsp;·&nbsp; Estudante de ADS
 
-![Java](https://img.shields.io/badge/Java-17+-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-17+-blue?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-em_estudo-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_·_JPA-blue?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL_·_JPA-blue?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_·_GitHub-purple?style=flat-square&logo=github&logoColor=white)
 
 </div>
