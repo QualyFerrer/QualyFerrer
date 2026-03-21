@@ -47,11 +47,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir uma
 
 ## Projetos em destaque
 
-### 💼 [Sistema de Cadastro de Funcionários](https://github.com/QualyFerrer/sistemaCadastroFuncionario)
-> Sistema em console aplicando herança, polimorfismo e classes abstratas para diferenciar funcionários CLT e PJ com cálculo de salário.
+### 🌐 [Task Manager API](https://github.com/QualyFerrer/task-manager-api)
+Evolução do Sistema Gerenciador de Tarefas em console para uma API REST completa, construída com Spring Boot e JPA/Hibernate.
 
 ### 📋 [Sistema Gerenciador de Tarefas](https://github.com/QualyFerrer/sistemaGerenciadorDeTarefas)
 > CRUD completo em console com menu interativo, prioridades via enum (BAIXA/MEDIA/ALTA), busca por ID e filtragem por prioridade.
+
+### 💼 [Sistema de Cadastro de Funcionários](https://github.com/QualyFerrer/sistemaCadastroFuncionario)
+> Sistema em console aplicando herança, polimorfismo e classes abstratas para diferenciar funcionários CLT e PJ com cálculo de salário.
 
 ### 📚 [Java Studies](https://github.com/QualyFerrer/java-studies)
 > Repositório de estudos com exercícios de lógica, desafios e introdução ao Spring Boot.
