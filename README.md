@@ -47,7 +47,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir uma
 
 ## Projetos em destaque
 
-### 🌐 [Task Manager API](https://github.com/QualyFerrer/task-manager-api)
+### 🚧 [Task Manager API](https://github.com/QualyFerrer/task-manager-api) *(em desenvolvimento)*
 Evolução do Sistema Gerenciador de Tarefas em console para uma API REST completa, construída com Spring Boot e JPA/Hibernate.
 
 ### 📋 [Sistema Gerenciador de Tarefas](https://github.com/QualyFerrer/sistemaGerenciadorDeTarefas)
