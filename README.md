@@ -4,13 +4,11 @@
 
 <br>
 
-<!-- FOTO -->
-
 <img src="SUA_FOTO_AQUI" width="140" style="border-radius: 50%; border: 2px solid #38bdf8;" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=APIs+REST+com+Java+e+Spring+Boot;Arquitetura+limpa+e+boas+pr%C3%A1ticas;JPA+%7C+Hibernate+%7C+Testes;Em+busca+da+primeira+oportunidade" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+com+Java+e+Spring+Boot;APIs+REST+bem+estruturadas;Boas+pr%C3%A1ticas+e+arquitetura;Buscando+minha+primeira+oportunidade" />
 
 </div>
 
@@ -18,41 +16,33 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor backend focado em Java e Spring Boot, atualmente cursando ADS.
+Desenvolvedor backend focado em Java e Spring Boot, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-Gosto de construir APIs com estrutura sólida, pensando em organização, clareza e boas práticas desde o início. Me preocupo com validação, tratamento de erros e testes — não só em fazer funcionar, mas em fazer direito.
+Tenho construído projetos com foco em padrões utilizados no mercado, aplicando arquitetura em camadas, validações, tratamento de exceções e testes automatizados. Busco sempre escrever código limpo, organizado e com responsabilidade clara.
 
-Estou em busca da minha primeira oportunidade como estagiário para aplicar na prática o que venho desenvolvendo.
+Meu objetivo é iniciar minha trajetória profissional como estagiário backend e evoluir dentro de um ambiente real de desenvolvimento.
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projeto principal
 
 ### 🔹 task-manager-api
 
-API REST para gerenciamento de tarefas
+API REST para gerenciamento de tarefas, construída com foco em organização, boas práticas e estrutura de mercado.
 
 ---
 
-### 🎥 Demonstração da API
-
-<!-- GIF -->
-
-<img src="SEU_GIF_DA_API_AQUI" width="700"/>
-
----
-
-### 🧪 O que esse projeto demonstra
+### ⚙️ Funcionalidades
 
 * CRUD completo com paginação
-* Validação com Bean Validation
+* Validação de dados com Bean Validation
 * Tratamento global de exceções
 * Documentação com Swagger/OpenAPI
-* Testes com JUnit 5 e Mockito
+* Testes unitários e de camada web
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Stack utilizada
 
 ```java
 Java 21
@@ -60,9 +50,14 @@ Spring Boot
 Spring Data JPA
 Hibernate
 H2 Database
-JUnit 5 + Mockito
+JUnit 5
+Mockito
 Swagger / OpenAPI
 ```
+
+---
+
+### 📂 Acesse o projeto
 
 👉 https://github.com/QualyFerrer/task-manager-api
 
@@ -70,22 +65,33 @@ Swagger / OpenAPI
 
 ## 📚 Outros projetos
 
-🔹 sistemaGerenciadorDeTarefas
-CRUD em console com regras de negócio e enums
+**🔹 sistemaGerenciadorDeTarefas**
+CRUD em console com uso de enums e regras de negócio
 
-🔹 sistemaCadastroFuncionario
-POO com herança, polimorfismo e abstração
+**🔹 sistemaCadastroFuncionario**
+Aplicação orientada a objetos com herança, polimorfismo e abstração
 
-🔹 java-studies
-Exercícios e evolução contínua
+**🔹 java-studies**
+Repositório de estudos, lógica e evolução contínua
+
+---
+
+## 🧠 Stack
+
+```java
+Backend:     Java 21, Spring Boot, JPA, Hibernate
+Testes:      JUnit 5, Mockito
+Banco:       H2 (em aprendizado: PostgreSQL)
+Ferramentas: Git, GitHub, Maven, Swagger
+```
 
 ---
 
 ## 📈 Em evolução
 
-* PostgreSQL em projetos reais
-* Deploy (Render / Railway)
-* Melhor cobertura de testes
+* Integração com PostgreSQL
+* Deploy de aplicações (Render / Railway)
+* Aumento de cobertura de testes
 * Primeira experiência profissional
 
 ---
