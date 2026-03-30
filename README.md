@@ -4,10 +4,10 @@
 
 <br>
 
-<h2>Desenvolvedor Backend · Java & Spring Boot</h2>
+<h2>Desenvolvedor Backend · Java &amp; Spring Boot</h2>
 <p>📍 Piracicaba, SP · Estudante de ADS</p>
 
-<br>
+</div>
 
 ![Java](https://img.shields.io/badge/Java%2021-0f172a?style=for-the-badge\&logo=openjdk\&logoColor=38bdf8)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge\&logo=springboot\&logoColor=38bdf8)
