@@ -1,95 +1,106 @@
 <div align="center">
-  <h1>César Ferrer</h1>
-  <p><strong>Desenvolvedor Backend · Java & Spring Boot</strong></p>
-  <p>📍 Piracicaba, SP &nbsp;·&nbsp; Estudante de ADS</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=César%20Ferrer&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Backend%20Developer%20·%20Java%20%26%20Spring%20Boot&descColor=8b949e&descAlignY=58&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+21+%7C+Spring+Boot+%7C+REST+APIs;JPA+%7C+Hibernate+%7C+H2;Testes+com+JUnit+5+%26+Mockito;Buscando+est%C3%A1gio+em+backend)](https://git.io/typing-svg)
 
-  ![Java](https://img.shields.io/badge/Java-21-blue?style=flat-square&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL_·_JPA_·_Hibernate-blue?style=flat-square&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git_·_GitHub-purple?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+📍 Piracicaba, SP &nbsp;·&nbsp; Estudante de ADS — UNIP &nbsp;·&nbsp; Buscando estágio em backend
+
 </div>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir uma base sólida em **desenvolvimento backend com Java**. Apaixonado por código limpo, boas práticas de orientação a objetos e pela jornada de transformar lógica em sistemas reais.
-
----
-
-## Stack atual
-
-| Tecnologia | Nível |
-|---|---|
-| Java 21 | Intermediário |
-| Programação Orientada a Objetos | Intermediário |
-| Spring Boot + REST APIs | Em aprendizado ativo |
-| SQL / JPA / Hibernate | Em aprendizado ativo |
-| Git & GitHub | Intermediário |
+Desenvolvedor backend focado em Java e Spring Boot. Estudo arquitetura em camadas, boas práticas de API REST, JPA/Hibernate e testes automatizados. Cada projeto que entrego é construído com estrutura real — sem atalhos.
 
 ---
 
-## Objetivos atuais
+## Projetos
 
-- [x] Dominar os fundamentos de POO em Java
-- [x] Desenvolver sistemas CRUD em console com estrutura organizada
-- [x] Aprender testes unitários com JUnit & Mockito
-- [ ] Dominar Spring Boot + JPA + REST APIs
-- [ ] Integrar banco de dados PostgreSQL em projetos reais
-- [ ] Fazer deploy de aplicações na nuvem (Railway / Render)
+### [task-manager-api](https://github.com/QualyFerrer/task-manager-api)
+> API REST para gerenciamento de tarefas com Spring Boot 3.x e JPA/Hibernate.
 
----
-
-## Projetos em destaque
-
-### [Task Manager API](https://github.com/QualyFerrer/task-manager-api)
-
-API REST completa para gerenciamento de tarefas, construída com Spring Boot e JPA/Hibernate.
-
-![Java](https://img.shields.io/badge/Java-21-blue?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA_·_Hibernate-blue?style=flat-square&logo=hibernate&logoColor=white)
-![H2](https://img.shields.io/badge/H2_Database-lightgrey?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-> CRUD completo com paginação, filtros, validação de dados, tratamento de erros padronizado e testes automatizados (unitários, web layer e repositório).
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.4.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_·_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit_5_·_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white)
+```
+✔ CRUD completo com paginação
+✔ Validação de dados com Bean Validation
+✔ Tratamento de erros padronizado com @RestControllerAdvice
+✔ Documentação interativa com Swagger UI
+✔ Testes unitários, web layer e repositório (13 testes)
+```
 
 ---
 
-### [Sistema Gerenciador de Tarefas](https://github.com/QualyFerrer/sistemaGerenciadorDeTarefas)
+### [sistemaGerenciadorDeTarefas](https://github.com/QualyFerrer/sistemaGerenciadorDeTarefas)
+> CRUD em console com menu interativo, prioridades via enum e filtragem por ID e prioridade.
 
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=openjdk&logoColor=white)
-
-> CRUD completo em console com menu interativo, prioridades via enum (BAIXA/MEDIA/ALTA), busca por ID e filtragem por prioridade.
-
----
-
-### [Sistema de Cadastro de Funcionários](https://github.com/QualyFerrer/sistemaCadastroFuncionario)
-
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=openjdk&logoColor=white)
-
-> Sistema em console aplicando herança, polimorfismo e classes abstratas para diferenciar funcionários CLT e PJ com cálculo de salário.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
-### [Java Studies](https://github.com/QualyFerrer/java-studies)
+### [sistemaCadastroFuncionario](https://github.com/QualyFerrer/sistemaCadastroFuncionario)
+> Sistema em console com herança, polimorfismo e classes abstratas — CLT e PJ com cálculo de salário.
 
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=openjdk&logoColor=white)
-
-> Repositório de estudos com exercícios de lógica, desafios e introdução ao Spring Boot.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
-## Contato
+### [java-studies](https://github.com/QualyFerrer/java-studies)
+> Exercícios de lógica, desafios e estudos introdutórios de Spring Boot.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Ferrer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-menezes-9b6786361/)
-[![GitHub](https://img.shields.io/badge/GitHub-QualyFerrer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QualyFerrer)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+## Stack
+```java
+String[] backend  = { "Java 21", "Spring Boot 3.x", "Spring Data JPA", "Hibernate", "H2" };
+String[] testes   = { "JUnit 5", "Mockito", "@WebMvcTest", "@DataJpaTest" };
+String[] ferramentas = { "Git", "GitHub", "Maven", "Swagger / OpenAPI", "Eclipse" };
+String[] estudando = { "PostgreSQL", "Deploy (Railway / Render)" };
+```
+
+---
+
+## Objetivos
+```
+[✔] POO sólida em Java
+[✔] CRUD em console com estrutura organizada
+[✔] REST API com Spring Boot e JPA
+[✔] Testes unitários com JUnit 5 e Mockito
+[ ] PostgreSQL em projetos reais
+[ ] Deploy na nuvem
+[ ] Primeira experiência profissional como estagiário backend
+```
 
 ---
 
 ## Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QualyFerrer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualyFerrer&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QualyFerrer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualyFerrer&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 </div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Ferrer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-menezes-9b6786361/)
+[![GitHub](https://img.shields.io/badge/GitHub-QualyFerrer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QualyFerrer)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
