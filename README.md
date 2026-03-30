@@ -7,7 +7,7 @@
 <h2>Desenvolvedor Backend · Java &amp; Spring Boot</h2>
 <p>📍 Piracicaba, SP · Estudante de ADS</p>
 
-</div>
+<br>
 
 ![Java](https://img.shields.io/badge/Java%2021-0f172a?style=for-the-badge\&logo=openjdk\&logoColor=38bdf8)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge\&logo=springboot\&logoColor=38bdf8)
@@ -20,74 +20,48 @@
 
 ## 🧑‍💻 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento backend com Java.
-
-Tenho construído projetos com foco em **estrutura de mercado**, aplicando arquitetura em camadas, validações, tratamento de exceções e testes automatizados. Busco escrever código limpo, organizado e com responsabilidade clara.
+Desenvolvedor backend focado em Java, construindo APIs com boas práticas, organização e estrutura de mercado.
 
 ---
 
-## ⚙️ Stack Atual
+## ⚡ Stack & Objetivos
 
 <div align="center">
 
-| Tecnologia                  | Nível         |
-| --------------------------- | ------------- |
-| **Java 21**                 | Intermediário |
-| **POO**                     | Intermediário |
-| **Spring Boot + REST APIs** | Em evolução   |
-| **SQL / JPA / Hibernate**   | Em evolução   |
-| **Git & GitHub**            | Intermediário |
+| 💻 Stack                                                         | 🎯 Objetivos                                                                                                       |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Java 21<br>Spring Boot<br>JPA / Hibernate<br>SQL<br>Git & GitHub | ✔ POO sólida<br>✔ CRUD estruturado<br>✔ Testes com JUnit<br>⬜ PostgreSQL<br>⬜ Deploy<br>⬜ Experiência profissional |
 
 </div>
 
 ---
 
-## 🎯 Objetivos
-
-```txt
-✔ POO sólida em Java
-✔ CRUD estruturado
-✔ Testes com JUnit e Mockito
-⬜ Spring Boot avançado
-⬜ PostgreSQL em produção
-⬜ Deploy na nuvem
-⬜ Primeira experiência profissional
-```
-
----
-
-## 🚀 Projeto em destaque
-
-### 🔹 Task Manager API
+## 🚀 Projetos
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square\&logo=openjdk\&logoColor=38bdf8)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=flat-square\&logo=springboot\&logoColor=38bdf8)
-![JPA](https://img.shields.io/badge/JPA%20%7C%20Hibernate-0f172a?style=flat-square\&logo=hibernate\&logoColor=38bdf8)
-![Swagger](https://img.shields.io/badge/Swagger-0f172a?style=flat-square\&logo=swagger\&logoColor=38bdf8)
+| 🔹 Task Manager API                                                   | 🔹 Sistema Gerenciador                                                           |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| API REST com Spring Boot                                              | CRUD em console                                                                  |
+| Paginação + validação                                                 | Regras com enum                                                                  |
+| Tratamento de erros                                                   | Filtros por ID                                                                   |
+| Testes automatizados                                                  | Estrutura organizada                                                             |
+| <a href="https://github.com/QualyFerrer/task-manager-api">Acessar</a> | <a href="https://github.com/QualyFerrer/sistemaGerenciadorDeTarefas">Acessar</a> |
 
 </div>
 
-> API REST completa com paginação, validação de dados, tratamento global de exceções e testes automatizados.
+<br>
 
-🔗 https://github.com/QualyFerrer/task-manager-api
+<div align="center">
 
----
+| 🔹 Cadastro Funcionários                                                        | 🔹 Java Studies                                                   |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| POO completa                                                                    | Estudos contínuos                                                 |
+| Herança e polimorfismo                                                          | Lógica e prática                                                  |
+| CLT vs PJ                                                                       | Evolução constante                                                |
+| <a href="https://github.com/QualyFerrer/sistemaCadastroFuncionario">Acessar</a> | <a href="https://github.com/QualyFerrer/java-studies">Acessar</a> |
 
-## 📚 Outros projetos
-
-### 🔹 Sistema Gerenciador de Tarefas
-
-> CRUD em console com regras de negócio e enums
-
-### 🔹 Sistema Cadastro de Funcionários
-
-> POO com herança, polimorfismo e abstração
-
-### 🔹 Java Studies
-
-> Estudos, lógica e evolução contínua
+</div>
 
 ---
 
