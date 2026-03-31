@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=César%20Ferrer&fontSize=52&fontColor=38bdf8&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=César%20Ferrer&fontSize=50&fontColor=38bdf8" />
 
 <br>
 
@@ -96,8 +96,8 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QualyFerrer&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualyFerrer&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QualyFerrer&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QualyFerrer&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
 </div>
 
 ---
@@ -118,4 +118,4 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
