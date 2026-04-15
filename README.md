@@ -11,8 +11,8 @@
 
 <img src="https://img.shields.io/badge/Java%2021-020617?style=for-the-badge&logo=openjdk&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Spring%20Boot-020617?style=for-the-badge&logo=springboot&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/JPA%20%7C%20Hibernate-020617?style=for-the-badge&logo=hibernate&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Spring%20Security-020617?style=for-the-badge&logo=springsecurity&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Git%20%7C%20GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8" />
 
 </div>
@@ -22,13 +22,47 @@
 ## 🧑‍💻 Sobre mim
 
 Desenvolvedor backend focado em Java, criando APIs com organização, clareza e boas práticas.
-Tenho experiência com arquitetura em camadas, validações, tratamento de exceções e testes automatizados.
+Tenho experiência com arquitetura em camadas, autenticação JWT, validações, tratamento de exceções e testes automatizados.
 
 Busco minha primeira oportunidade como estagiário para atuar em projetos reais e evoluir tecnicamente.
 
 ---
 
-## 🚀 Projeto principal
+## 🚀 Projetos principais
+
+<div align="center">
+
+### 🔐 RiskGuard API
+![Em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-f59e0b?style=flat-square)
+
+<img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Spring%20Boot-020617?style=flat-square&logo=springboot&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Spring%20Security%20%7C%20JWT-020617?style=flat-square&logo=springsecurity&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38bdf8" />
+
+</div>
+
+> API de detecção de fraudes em transações financeiras com autenticação JWT, regras de análise de risco e arquitetura em camadas.
+
+<div align="center">
+
+| Funcionalidades                                               |
+| ------------------------------------------------------------- |
+| 🔐 Autenticação e autorização com JWT                         |
+| ⚠️ Análise de risco por regras configuráveis                  |
+| 🗄️ Persistência com PostgreSQL                               |
+| 🔒 Spring Security com controle de acesso                     |
+| 📐 Arquitetura em camadas (Controller → Service → Repository) |
+
+</div>
+
+<p align="center">
+<a href="https://github.com/QualyFerrer/risk-guard-api">
+<img src="https://img.shields.io/badge/Ver%20Projeto-38bdf8?style=for-the-badge&logo=github&logoColor=020617" />
+</a>
+</p>
+
+---
 
 <div align="center">
 
@@ -69,17 +103,19 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 | 💻 Stack Atual  | 📈 Em Evolução            |
 | --------------- | ------------------------- |
-| Java 21         | PostgreSQL                |
+| Java 21         | Docker                    |
 | Spring Boot     | Deploy (Render / Railway) |
-| JPA / Hibernate | Testes avançados          |
-| SQL             | Arquitetura avançada      |
-| Git & GitHub    | Experiência profissional  |
+| Spring Security | Testes avançados          |
+| JWT             | Mensageria / Event-driven |
+| JPA / Hibernate |                           |
+| PostgreSQL      |                           |
+| Git & GitHub    |                           |
 
 </div>
 
 ---
 
-## 📚 Projetos
+## 📚 Outros projetos
 
 <div align="center">
 
