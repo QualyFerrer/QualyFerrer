@@ -33,7 +33,8 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 <div align="center">
 
 ### 🔐 RiskGuard API
-![Em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-f59e0b?style=flat-square)
+
+![Finalizado](https://img.shields.io/badge/status-finalizado-22c55e?style=flat-square)
 
 <img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Spring%20Boot-020617?style=flat-square&logo=springboot&logoColor=38bdf8" />
@@ -42,7 +43,8 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 </div>
 
-> API de detecção de fraudes em transações financeiras com autenticação JWT, regras de análise de risco e arquitetura em camadas.
+> API de detecção de fraudes em transações financeiras em tempo real, com autenticação JWT, motor de análise de risco e arquitetura em camadas.
+> ✔️ Projeto finalizado e funcional, com documentação via Swagger e ambiente Docker
 
 <div align="center">
 
@@ -154,4 +156,4 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/> 
