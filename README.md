@@ -68,6 +68,43 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 <div align="center">
 
+### 🟡 SmartQueue API
+
+![Em construção](https://img.shields.io/badge/status-em%20construção-f59e0b?style=flat-square)
+
+<img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Spring%20Boot-020617?style=flat-square&logo=springboot&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/WebSocket%20%7C%20STOMP-020617?style=flat-square&logo=socket.io&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Redis-020617?style=flat-square&logo=redis&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=38bdf8" />
+
+</div>
+
+> Sistema de filas inteligente com notificações em tempo real via WebSocket. Pensado para clínicas, cartórios e órgãos públicos, com priorização automática e painel de atendimento.
+
+<div align="center">
+
+| Funcionalidades                                               |
+| ------------------------------------------------------------- |
+| 📡 Notificações em tempo real com WebSocket + STOMP           |
+| 🏥 Priorização automática (idosos, gestantes, urgências)      |
+| ⏱️ Estimativa de tempo de espera                             |
+| 🗄️ Estado da fila em Redis + persistência no PostgreSQL       |
+| 📊 Relatórios de atendimento (tempo médio, pico de demanda)   |
+| 📐 Arquitetura em camadas (Controller → Service → Repository) |
+
+</div>
+
+<p align="center">
+<a href="https://github.com/QualyFerrer/smartqueue">
+<img src="https://img.shields.io/badge/Ver%20Projeto-38bdf8?style=for-the-badge&logo=github&logoColor=020617" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
 ### 🔹 Task Manager API
 
 <img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=38bdf8" />
@@ -156,4 +193,4 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
