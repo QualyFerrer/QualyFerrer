@@ -96,7 +96,7 @@ Busco minha primeira oportunidade como estagiário para atuar em projetos reais 
 </div>
 
 <p align="center">
-<a href="https://github.com/QualyFerrer/smartqueue">
+<a href="https://github.com/QualyFerrer/smart-queue">
 <img src="https://img.shields.io/badge/Ver%20Projeto-38bdf8?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
 </p>
